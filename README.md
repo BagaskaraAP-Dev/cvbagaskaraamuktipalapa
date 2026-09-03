@@ -2,8 +2,9 @@
 
 A modern, responsive, and semantic web-based curriculum vitae & portfolio for **Bagaskara Amukti Palapa**, an Informatics Engineering student specializing in Front-End Development, Applied AI, and Cyber Security.
 
-## 🌐 Live Project URL
-**Website URL:** [https://bagaskaraap-dev.github.io/cvbagaskaraamuktipalapa/](https://bagaskaraap-dev.github.io/cvbagaskaraamuktipalapa/)
+## 🔗 Project Links
+- **Project URL:** https://roadmap.sh/projects/single-page-cv
+- **Live Website URL:** https://bagaskaraap-dev.github.io/cvbagaskaraamuktipalapa/
 
 ---
 
